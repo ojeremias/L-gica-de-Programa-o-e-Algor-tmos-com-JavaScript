@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card
+{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    width: auto;
+}
+.conteudo-card
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+}
+#btResposta
+{
+    
+    width: 346px;
+}
